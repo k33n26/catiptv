@@ -106,3 +106,41 @@ https://catcast.ismailturret.workers.dev/39200.m3u8
 SIRIUS HD TV
 https://catcast.ismailturret.workers.dev/48023.m3u8
 
+Tivibu Spor1
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19074/index.m3u8
+
+Tivibu Spor3
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19076/index.m3u8
+
+iztv
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19078/index.m3u8
+
+exxen
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19077/index.m3u8
+
+Sportsmart2
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19073/index.m3u8
+
+SSport2
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19071/index.m3u8
+
+SSport2(2)
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19070/index.m3u8
+
+bsportmax1
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19062/index.m3u8
+
+ESPN2
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19061/index.m3u8
+
+ESPN
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19060/index.m3u8
+
+ESPN4
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19057/index.m3u8
+
+TNTSPORTS 4
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19054/index.m3u8
+
+3SAT
+http://41.205.77.102/3SAT/index.m3u8
