@@ -1,7 +1,7 @@
 Fanatik Max Yeşilçam
 https://catcast.ismailturret.workers.dev/50735.m3u8
 
-Fanatik Max Bizimkiler
+Fanatik Prime Bizimkiler
 https://catcast.ismailturret.workers.dev/50840.m3u8
 
 Kemal Sunal TV
@@ -45,6 +45,9 @@ https://catcast.ismailturret.workers.dev/50879.m3u8
 
 Player Komedi Cennet Mahallesi
 https://catcast.ismailturret.workers.dev/50489.m3u8
+
+Fanatik Prime Avrupa Yakası
+https://catcast.ismailturret.workers.dev/50840.m3u8
 
 Player Cinema-1
 https://catcast.ismailturret.workers.dev/50678.m3u8
