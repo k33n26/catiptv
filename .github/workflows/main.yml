@@ -1,0 +1,23 @@
+name: M3U Guncelleme
+on:
+  push:
+    paths:
+      - 'kanallar.txt'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Donustur
+        run: python convert.py
+      - name: Guncelle
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions@github.com"
+          git add listem.m3u
+          git commit -m "M3U listesi güncellendi"
+          git push
