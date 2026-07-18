@@ -47,7 +47,7 @@ Player Komedi Cennet Mahallesi
 https://catcast.ismailturret.workers.dev/50489.m3u8
 
 Fanatik Prime Avrupa Yakası
-https://catcast.ismailturret.workers.dev/50840.m3u8
+https://catcast.ismailturret.workers.dev/50846.m3u8
 
 Player Cinema-1
 https://catcast.ismailturret.workers.dev/50678.m3u8
@@ -97,3 +97,5 @@ https://catcast.ismailturret.workers.dev/50961.m3u8
 Player Cinema-16
 https://catcast.ismailturret.workers.dev/50723.m3u8
 
+Alvin OVÇU
+https://catcast.ismailturret.workers.dev/39200.m3u8
