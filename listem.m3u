@@ -97,3 +97,21 @@ http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19057/index.m3u8
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19054/index.m3u8
 #EXTINF:-1,3SAT
 http://41.205.77.102/3SAT/index.m3u8
+#EXTINF:-1,BAŞKA TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/baska_tv.m3u8
+#EXTINF:-1,BİZİMBERGAMA TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/bizimbergama_tv.m3u8
+#EXTINF:-1,TV KAYSERİ
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/kayseri_tv.m3u8
+#EXTINF:-1,SERHAT TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/serhat_tv.m3u8
+#EXTINF:-1,NEXUS CHANNEL
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/nexuschannel.m3u8
+#EXTINF:-1,TV8
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/tv8_tv.m3u8
+#EXTINF:-1,SHOW TV
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/show_tv.m3u8
+#EXTINF:-1,KANAL D
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/kanald.m3u8
+#EXTINF:-1,CGTN DOCUMENTARY-TR
+https://dogusdyg-drone.lg.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
